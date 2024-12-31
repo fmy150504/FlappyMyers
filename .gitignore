@@ -1,0 +1,35 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.apk
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.pdb
+*.suo
+*.user
+*.unityproj
+*.vcxproj
+.vs/
+
+# Unity metadata files
+*.meta
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Burst Debug Information
+*BurstDebugInformation_DoNotShip*
+
+# Ignore Unity crash reports
+CrashReports/
