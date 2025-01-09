@@ -59,7 +59,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer Anda:
    ```
 
 2. Buka folder proyek di Unity:
-   - Pastikan Anda menggunakan versi Unity yang kompatibel dengan proyek ini.
+   - Pastikan Anda menggunakan versi Unity yang kompatibel dengan proyek ini. Saya menggunakan Unity 6 (6000.0.32f1).
 
 3. Pilih dan buka scene utama:
    - **`Assets/Scenes/Scene1.unity`**
